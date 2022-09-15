@@ -1,3 +1,3 @@
 # PiHost
 The PiHost Bot
-Bot is fixed after I manually fixed the backdoors in discord py, I will not be making this version Open Source because of the license that discord.py has (doesn't allow forking) .  Unfortunatly the discord.py team has announced that they are ending support for discord.py hence the bot will have to be rewritten, this is not as big of a deal as it sounds like but it will be a roadblock for the bot coming back.  The bot will probably be rewritten in C++ or node,js or maybe even java if I have the time.  But that being said unfortuantly there is NO ETA for the bot coming back, especially because you have to manually write the linux integration system and the rcon client in all of the languagues that discord supports.
+Makes server hosting and creation easy for users through discord!
